@@ -8,6 +8,7 @@
 		<RootNamespace>Microsoft.Xna.Framework</RootNamespace>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
 	</PropertyGroup>
 	<PropertyGroup>
 		<FNASettingsPropsFilePath>$(SolutionDir)FNA.Settings.props</FNASettingsPropsFilePath>
